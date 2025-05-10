@@ -81,7 +81,7 @@ const Page = () => {
   };
 
   return (
-    <div className="min-h-[calc(100vh-5rem)] flex flex-col justify-center items-center">
+    <div className="min-h-[calc(100vh-8rem)] flex flex-col justify-center items-center">
       {/* Timer */}
       <h1 className="text-8xl md:text-9xl lg:text-9xl font-bold text-center text-[#FAF9F6] drop-shadow">
         {formatTime(timeLeft)}
