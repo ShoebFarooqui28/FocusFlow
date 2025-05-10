@@ -15,7 +15,7 @@ const Navbar = () => {
       : "px-2 py-2 rounded-md text-[#FAF9F6] hover:bg-[#770737] transition-all duration-100";
 
   return (
-    <div className="top-0 w-full z-40 h-20">
+    <div className="top-0 w-full z-40 h-30">
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-20">
           <Link href="/" className="text-lg font-bold text-[#FAF9F6]">FocusFlow</Link>
